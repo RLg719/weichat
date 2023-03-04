@@ -12,10 +12,10 @@
     步骤：
       - 用途：操作/checkout@v2
     
-      - 名称：设置 Python 20.04
+      - 名称：设置 Python 3.11
         用途：操作/设置python@v2
         与：
-          蟒蛇版本：20.04
+          蟒蛇版本：3.11.0
       - 名称：安装 pip 包
         运行： |
 python -m pip install --upgrade pip
